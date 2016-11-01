@@ -1,11 +1,38 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  name: MyString
-  category: MyString
-  amount: 1
+  id: 1
+  name: Apple
+  category: Fruits
+  amount: 3
+  list_id: 1
 
 two:
-  name: MyString
-  category: MyString
+  id: 2
+  name: Banana
+  category: Fruits
+  amount: 5
+
+three:
+  id: 3
+  name: Peanuts
+  category: Nuts
+  amount: 3
+
+four:
+  id: 4
+  name: Lollypop
+  category: Candy
+  amount: 5
+
+five:
+  id: 5
+  name: Honey
+  category: For my bread
   amount: 1
+
+six:
+  id: 6
+  name: The good bread
+  category: Bread
+  amount: 5
